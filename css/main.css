@@ -1,0 +1,15 @@
+
+*{
+    direction: rtl;
+    font-family: iran;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px ;
+    margin: 0px ;
+}
+
+a{
+    text-decoration: none ;
+}
