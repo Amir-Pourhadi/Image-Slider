@@ -1,15 +1,14 @@
-
-*{
-    direction: rtl;
-    font-family: iran;
-    box-sizing: border-box;
+* {
+	direction: rtl;
+	font-family: iran;
+	box-sizing: border-box;
 }
 
-body{
-    font-size: 16px ;
-    margin: 0px ;
+body {
+	font-size: 16px;
+	margin: 0px;
 }
 
-a{
-    text-decoration: none ;
+a {
+	text-decoration: none;
 }
