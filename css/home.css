@@ -16,7 +16,6 @@
 
 .slider .slides .active {
   display: block;
-  /* animation-duration: 2s; */
 }
 
 .slider .buttons {
